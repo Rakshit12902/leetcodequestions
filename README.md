@@ -52,10 +52,12 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -64,4 +66,5 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
