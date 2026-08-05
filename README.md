@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -43,10 +44,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -67,4 +70,24 @@
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
