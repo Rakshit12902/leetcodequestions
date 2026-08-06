@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -90,4 +92,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
