@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Rakshit12902/leetcodequestions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Rakshit12902/leetcodequestions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
@@ -37,6 +39,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
