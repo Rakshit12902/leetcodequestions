@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -33,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -104,6 +106,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
