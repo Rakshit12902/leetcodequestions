@@ -40,6 +40,7 @@
 | [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rakshit12902/leetcodequestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rakshit12902/leetcodequestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
@@ -138,5 +140,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
