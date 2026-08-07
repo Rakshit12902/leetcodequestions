@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -102,6 +103,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
