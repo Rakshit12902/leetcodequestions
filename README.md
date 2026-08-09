@@ -22,6 +22,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -36,6 +37,7 @@
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -48,20 +50,24 @@
 | [0326-power-of-three](https://github.com/Rakshit12902/leetcodequestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -154,4 +160,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
