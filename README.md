@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -16,6 +17,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rakshit12902/leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
