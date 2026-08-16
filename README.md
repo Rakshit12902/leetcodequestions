@@ -48,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakshit12902/leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -75,18 +77,21 @@
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +145,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
 | ------- |
@@ -169,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -194,6 +201,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
