@@ -44,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -58,6 +59,7 @@
 | [0050-powx-n](https://github.com/Rakshit12902/leetcodequestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rakshit12902/leetcodequestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
@@ -158,6 +160,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
@@ -171,6 +174,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -219,4 +223,16 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
