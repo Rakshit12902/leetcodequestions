@@ -48,6 +48,7 @@
 | [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rakshit12902/leetcodequestions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakshit12902/leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rakshit12902/leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -184,6 +186,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -197,6 +200,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rakshit12902/leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
