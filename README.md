@@ -57,6 +57,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakshit12902/leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rakshit12902/leetcodequestions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rakshit12902/leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -202,6 +205,7 @@
 | [0231-power-of-two](https://github.com/Rakshit12902/leetcodequestions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rakshit12902/leetcodequestions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rakshit12902/leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -277,4 +281,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rakshit12902/leetcodequestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
