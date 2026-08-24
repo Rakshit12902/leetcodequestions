@@ -33,6 +33,7 @@
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rakshit12902/leetcodequestions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rakshit12902/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -53,6 +54,7 @@
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rakshit12902/leetcodequestions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakshit12902/leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -77,6 +79,7 @@
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rakshit12902/leetcodequestions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -89,6 +92,7 @@
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -97,6 +101,7 @@
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rakshit12902/leetcodequestions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -105,6 +110,7 @@
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Rakshit12902/leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -220,6 +226,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
