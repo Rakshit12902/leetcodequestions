@@ -20,6 +20,7 @@
 | [0115-distinct-subsequences](https://github.com/Rakshit12902/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -35,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Rakshit12902/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rakshit12902/leetcodequestions/tree/master/1510-stone-game-iv) |
