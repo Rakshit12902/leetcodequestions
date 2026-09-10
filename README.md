@@ -157,6 +157,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rakshit12902/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -341,4 +342,12 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rakshit12902/leetcodequestions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rakshit12902/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rakshit12902/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
