@@ -58,6 +58,7 @@
 | [0189-rotate-array](https://github.com/Rakshit12902/leetcodequestions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rakshit12902/leetcodequestions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [0835-image-overlap](https://github.com/Rakshit12902/leetcodequestions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
+| [0835-image-overlap](https://github.com/Rakshit12902/leetcodequestions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rakshit12902/leetcodequestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
