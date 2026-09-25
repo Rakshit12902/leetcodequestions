@@ -22,6 +22,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rakshit12902/leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -189,6 +193,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rakshit12902/leetcodequestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -253,6 +258,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
