@@ -23,6 +23,7 @@
 | [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -405,4 +407,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rakshit12902/leetcodequestions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rakshit12902/leetcodequestions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
