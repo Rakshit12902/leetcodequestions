@@ -1,25 +1,34 @@
-#include <stack>
-#include <string>
-using namespace std;
-
+char st[10000];
+int top=-1;
 class Solution {
 public:
-    bool isValid(string s) {
-        stack<char> st;
-        for (char ch : s) {
-            if (ch == '(' || ch == '[' || ch == '{') {
-                st.push(ch);
-            } else {
-                if (st.empty()) {
-                    return false;
-                }
-                char top = st.top();
-                st.pop();
-                if (ch == ')' && top != '(') return false;
-                if (ch == ']' && top != '[') return false;
-                if (ch == '}' && top != '{') return false;
+    inline static char bracket_open(char c){
+        switch (c){
+            case ')': return '(';
+            case '}': return '{';
+            case ']': return '[';
+        }
+        return 0;// never reach
+    }
+    static bool isValid(string& s) { 
+        top=-1;// reset the st 
+        if (s.size()&1) return 0;
+        for (char c: s){
+            switch(c){
+                case '(':
+                case '{':
+                case '[':
+                    st[++top]=c;
+                    break;
+                case ')': 
+                case '}':
+                case ']':
+                    if (top==-1 || st[top]!=bracket_open(c))
+                        return 0;
+                    else st[top--];
+                    break;
             }
         }
-        return st.empty();
+        return top==-1;
     }
 };
