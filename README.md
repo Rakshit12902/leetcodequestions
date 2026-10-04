@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rakshit12902/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Rakshit12902/leetcodequestions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rakshit12902/leetcodequestions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
@@ -77,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rakshit12902/leetcodequestions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rakshit12902/leetcodequestions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
@@ -194,6 +196,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rakshit12902/leetcodequestions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
