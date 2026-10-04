@@ -23,6 +23,7 @@
 | [0115-distinct-subsequences](https://github.com/Rakshit12902/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -49,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/Rakshit12902/leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Rakshit12902/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/Rakshit12902/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -67,6 +69,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -280,6 +283,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Rakshit12902/leetcodequestions/tree/master/1927-sum-game) |
@@ -426,6 +430,7 @@
 | [0020-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshit12902/leetcodequestions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
