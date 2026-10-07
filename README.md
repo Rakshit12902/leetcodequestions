@@ -23,6 +23,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Rakshit12902/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Rakshit12902/leetcodequestions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Rakshit12902/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0856-score-of-parentheses) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rakshit12902/leetcodequestions/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakshit12902/leetcodequestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Rakshit12902/leetcodequestions/tree/master/3310-remove-methods-from-project) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Rakshit12902/leetcodequestions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
