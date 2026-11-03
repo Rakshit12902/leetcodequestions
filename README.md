@@ -103,6 +103,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Rakshit12902/leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Rakshit12902/leetcodequestions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Rakshit12902/leetcodequestions/tree/master/1254-number-of-closed-islands) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakshit12902/leetcodequestions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Rakshit12902/leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshit12902/leetcodequestions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rakshit12902/leetcodequestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -400,6 +402,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rakshit12902/leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Rakshit12902/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rakshit12902/leetcodequestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rakshit12902/leetcodequestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
